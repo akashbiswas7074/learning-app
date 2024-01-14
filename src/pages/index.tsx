@@ -8,7 +8,7 @@ export default function Home() {
   
     <main>
       <h1>
-        Akash
+        Akash biswas
       </h1>
     </main> </> )
 }
